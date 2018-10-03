@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27924.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balindrome.Server", "Balindrome.Server\Balindrome.Server.csproj", "{859C8D29-A6BE-442F-AF52-E49989B65508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balindrome.Server", "Balindrome.Server\Balindrome.Server.csproj", "{859C8D29-A6BE-442F-AF52-E49989B65508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balindrome.Client", "Balindrome.Client\Balindrome.Client.csproj", "{A45FAD9E-BAFD-4D17-BAA1-C5310994AB00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balindrome.Client", "Balindrome.Client\Balindrome.Client.csproj", "{A45FAD9E-BAFD-4D17-BAA1-C5310994AB00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balindrome.Shared", "Balindrome.Shared\Balindrome.Shared.csproj", "{3A406AE2-B776-4D10-9815-CDF6CB3AE883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balindrome.Shared", "Balindrome.Shared\Balindrome.Shared.csproj", "{3A406AE2-B776-4D10-9815-CDF6CB3AE883}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3634BAC2-C148-412C-A6C9-3E744424A2AA}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
